@@ -15,7 +15,7 @@ public class SeansDotaProject {
     
     public static void main(String[] args) throws IOException, ParseException, InterruptedException {
 
-        DotaMetrics.mostSeenHero(500, "76561198095830948");
+        DotaMetrics.mostSeenHero(100, "76561198095830948");
         
     }
         
